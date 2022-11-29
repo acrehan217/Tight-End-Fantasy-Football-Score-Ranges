@@ -5,3 +5,5 @@ Executive Summary: This dataset represents the stats of NFL quarterbacks, runnin
 DATA SOURCES: Player stats and contract data obtained from NFL.com. Marginal tax rates obtained from turbotax.com. 
 
 QUESTIONS TO EXPLORE: What does the spread of NFL players’ fantasy scores look like? Does it differ by position? What is the connection between player value and scoring consistency? Do players consider state income tax when deciding whom to sign with during free agency?
+
+Link to Tableau: https://public.tableau.com/app/profile/austin.crehan/viz/TightEndFantasyFootballScoreRanges/TightEndFantasyFootballScoreRanges?publish=yes (storyboard focuses on results regarding the tight end position as the spread of fantasy scores was the most drastic as compared to the other positions).
